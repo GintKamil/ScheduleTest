@@ -1,0 +1,30 @@
+C:\проект c#\Schedule\bin\Debug\net6.0\Schedule.exe
+C:\проект c#\Schedule\bin\Debug\net6.0\Schedule.deps.json
+C:\проект c#\Schedule\bin\Debug\net6.0\Schedule.runtimeconfig.json
+C:\проект c#\Schedule\bin\Debug\net6.0\Schedule.dll
+C:\проект c#\Schedule\bin\Debug\net6.0\Schedule.pdb
+C:\проект c#\Schedule\obj\Debug\net6.0\Schedule.csproj.AssemblyReference.cache
+C:\проект c#\Schedule\obj\Debug\net6.0\Schedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\проект c#\Schedule\obj\Debug\net6.0\Schedule.AssemblyInfoInputs.cache
+C:\проект c#\Schedule\obj\Debug\net6.0\Schedule.AssemblyInfo.cs
+C:\проект c#\Schedule\obj\Debug\net6.0\Schedule.csproj.CoreCompileInputs.cache
+C:\проект c#\Schedule\obj\Debug\net6.0\Schedule.dll
+C:\проект c#\Schedule\obj\Debug\net6.0\refint\Schedule.dll
+C:\проект c#\Schedule\obj\Debug\net6.0\Schedule.pdb
+C:\проект c#\Schedule\obj\Debug\net6.0\Schedule.genruntimeconfig.cache
+C:\проект c#\Schedule\obj\Debug\net6.0\ref\Schedule.dll
+C:\Schedule\Schedule\bin\Debug\net6.0\Schedule.exe
+C:\Schedule\Schedule\bin\Debug\net6.0\Schedule.deps.json
+C:\Schedule\Schedule\bin\Debug\net6.0\Schedule.runtimeconfig.json
+C:\Schedule\Schedule\bin\Debug\net6.0\Schedule.dll
+C:\Schedule\Schedule\bin\Debug\net6.0\Schedule.pdb
+C:\Schedule\Schedule\obj\Debug\net6.0\Schedule.csproj.AssemblyReference.cache
+C:\Schedule\Schedule\obj\Debug\net6.0\Schedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Schedule\Schedule\obj\Debug\net6.0\Schedule.AssemblyInfoInputs.cache
+C:\Schedule\Schedule\obj\Debug\net6.0\Schedule.AssemblyInfo.cs
+C:\Schedule\Schedule\obj\Debug\net6.0\Schedule.csproj.CoreCompileInputs.cache
+C:\Schedule\Schedule\obj\Debug\net6.0\Schedule.dll
+C:\Schedule\Schedule\obj\Debug\net6.0\refint\Schedule.dll
+C:\Schedule\Schedule\obj\Debug\net6.0\Schedule.pdb
+C:\Schedule\Schedule\obj\Debug\net6.0\Schedule.genruntimeconfig.cache
+C:\Schedule\Schedule\obj\Debug\net6.0\ref\Schedule.dll
